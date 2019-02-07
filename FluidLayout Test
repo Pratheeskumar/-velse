@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="fluid_floatlayout.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <header>
+        <center>header</center>    
+        </header>
+    
+    <aside>
+        <center>sidebar</center>
+                            </aside>
+    
+    <bside>
+        <center> sidebar</center>
+                            </bside>
+    
+    <main>
+        <center> main</center>
+                            </main>
+   
+   
+    </body>
+</html>
